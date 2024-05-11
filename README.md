@@ -27,3 +27,26 @@ install vscode extension: Tailwind CSS IntelliSense
 
 
 ## prettier format
+https://github.com/tailwindlabs/prettier-plugin-tailwindcss
+
+
+```
+npm install react-router-dom
+```
+
+
+## Automatic Class Sorting with Prettier
+https://tailwindcss.com/blog/automatic-class-sorting-with-prettier
+```
+npm install -D prettier prettier-plugin-tailwindcss
+
+.prettierrc
+{
+  "plugins": ["prettier-plugin-tailwindcss"]
+}
+```
+
+
+## ES7 React/Reduce snippets
+rfc: react function component
+rafce: reactArrowFunctionExportComponet

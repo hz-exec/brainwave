@@ -50,3 +50,7 @@ npm install -D prettier prettier-plugin-tailwindcss
 ## ES7 React/Reduce snippets
 rfc: react function component
 rafce: reactArrowFunctionExportComponet
+
+
+## scroll-lock
+npm install scroll-lock

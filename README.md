@@ -54,3 +54,6 @@ rafce: reactArrowFunctionExportComponet
 
 ## scroll-lock
 npm install scroll-lock
+
+## react-just-parallax
+npm install react-just-parallax
